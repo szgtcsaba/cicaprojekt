@@ -1,4 +1,4 @@
-#include "Cica.h"
+#include "cica.h"
 
 cica::cica(Nem n, Faj f, Kontinens k, Egeszsegi_allapot ea, Szin sz, unsigned int m, double t): 
 	  nem(n), faj(f), kontinens(k), eg_all(ea), szin(sz), magassag(m), testtomeg(t)

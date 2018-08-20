@@ -78,7 +78,7 @@ class cica
 			egyeb_allat
 		};
 
-	public:
+	public: //miert van ketszer public?
 		cica(Nem nem, Faj faj, Kontinens kontinens, Egeszsegi_allapot, Szin szin, unsigned int magassag, double testtömeg);
 		~cica();
 
