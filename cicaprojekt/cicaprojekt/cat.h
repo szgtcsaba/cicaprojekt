@@ -6,14 +6,15 @@
 
 class Cat
 {
-
-
-    private:
+    public:
         enum class Gender
         {
             male,
             female
         };
+
+    private:
+
         enum class HungryState
         {
             best,
